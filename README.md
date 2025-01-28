@@ -1,2 +1,2 @@
 # SUDOKU
-Jogo de sudoku 
+Jogo de sudoku criado em python
